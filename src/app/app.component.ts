@@ -17,6 +17,7 @@ export class Hero {
     </div>
     `,
 })
+
 export class AppComponent  {
   title = 'Tour of Heroes';
   hero = Hero = {
